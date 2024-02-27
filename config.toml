@@ -10,6 +10,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 theme = "hugo-bootstrap-theme"
+favicon = "{{ `images/logo.png` }}"
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true

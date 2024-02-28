@@ -1,10 +1,10 @@
-# User Stories for IntegriMark
+# User Stories for Algebra Academy
 
 This is a backlog of user stories for Algebra Academy, an online learning platform. These user stories are provided as potential examples coinciding with the features of Algebra Academy.
 
 ## Current Features
 
-These are features that are currently implemented in IntegriMark, and which feature on the landing page.
+These are features that are currently implemented in Algebra Academy, and which feature on the landing page.
 
 ### Illustrated Features
 
